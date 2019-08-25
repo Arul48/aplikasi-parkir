@@ -1,0 +1,57 @@
+C:\Users\Arul48\AppData\Local\Temporary Projects\TUGAS UAS\bin\Debug\TUGAS UAS.exe.config
+C:\Users\Arul48\AppData\Local\Temporary Projects\TUGAS UAS\obj\Debug\TUGAS_UAS.Form1.resources
+C:\Users\Arul48\AppData\Local\Temporary Projects\TUGAS UAS\obj\Debug\TUGAS_UAS.Form2.resources
+C:\Users\Arul48\AppData\Local\Temporary Projects\TUGAS UAS\obj\Debug\TUGAS_UAS.Resources.resources
+C:\Users\Arul48\AppData\Local\Temporary Projects\TUGAS UAS\obj\Debug\TUGAS UAS.vbproj.GenerateResource.Cache
+C:\Users\Arul48\AppData\Local\Temporary Projects\TUGAS UAS\bin\Debug\TUGAS UAS.exe
+C:\Users\Arul48\AppData\Local\Temporary Projects\TUGAS UAS\bin\Debug\TUGAS UAS.pdb
+C:\Users\Arul48\AppData\Local\Temporary Projects\TUGAS UAS\bin\Debug\TUGAS UAS.xml
+C:\Users\Arul48\AppData\Local\Temporary Projects\TUGAS UAS\obj\Debug\TUGAS UAS.exe
+C:\Users\Arul48\AppData\Local\Temporary Projects\TUGAS UAS\obj\Debug\TUGAS UAS.xml
+C:\Users\Arul48\AppData\Local\Temporary Projects\TUGAS UAS\obj\Debug\TUGAS UAS.pdb
+C:\Users\Arul48\AppData\Local\Temporary Projects\TUGAS UAS\obj\Debug\TUGAS_UAS.Form3.resources
+C:\Users\Arul48\Documents\Visual Studio 2012\Projects\TUGAS UAS\TUGAS UAS\bin\Debug\TUGAS UAS.exe.config
+C:\Users\Arul48\Documents\Visual Studio 2012\Projects\TUGAS UAS\TUGAS UAS\obj\Debug\TUGAS UAS.exe
+C:\Users\Arul48\Documents\Visual Studio 2012\Projects\TUGAS UAS\TUGAS UAS\obj\Debug\TUGAS UAS.xml
+C:\Users\Arul48\Documents\Visual Studio 2012\Projects\TUGAS UAS\TUGAS UAS\obj\Debug\TUGAS UAS.pdb
+C:\Users\Arul48\Documents\Visual Studio 2012\Projects\TUGAS UAS\TUGAS UAS\bin\Debug\TUGAS UAS.exe
+C:\Users\Arul48\Documents\Visual Studio 2012\Projects\TUGAS UAS\TUGAS UAS\bin\Debug\TUGAS UAS.pdb
+C:\Users\Arul48\Documents\Visual Studio 2012\Projects\TUGAS UAS\TUGAS UAS\bin\Debug\TUGAS UAS.xml
+C:\Users\Arul48\Documents\Visual Studio 2012\Projects\TUGAS UAS\TUGAS UAS\obj\Debug\TUGAS_UAS.Form1.resources
+C:\Users\Arul48\Documents\Visual Studio 2012\Projects\TUGAS UAS\TUGAS UAS\obj\Debug\TUGAS_UAS.Form2.resources
+C:\Users\Arul48\Documents\Visual Studio 2012\Projects\TUGAS UAS\TUGAS UAS\obj\Debug\TUGAS_UAS.Form3.resources
+C:\Users\Arul48\Documents\Visual Studio 2012\Projects\TUGAS UAS\TUGAS UAS\obj\Debug\TUGAS_UAS.Form4.resources
+C:\Users\Arul48\Documents\Visual Studio 2012\Projects\TUGAS UAS\TUGAS UAS\obj\Debug\TUGAS_UAS.Form5.resources
+C:\Users\Arul48\Documents\Visual Studio 2012\Projects\TUGAS UAS\TUGAS UAS\obj\Debug\TUGAS_UAS.Resources.resources
+C:\Users\Arul48\Documents\Visual Studio 2012\Projects\TUGAS UAS\TUGAS UAS\obj\Debug\TUGAS UAS.vbproj.GenerateResource.Cache
+C:\Users\Arul48\Documents\Visual Studio 2012\Projects\TUGAS UAS\TUGAS UAS\bin\Debug\DB Zery 1.accdb
+D:\TUGAS TIAP MODUL\TUGAS UAS\bin\Debug\TUGAS UAS.exe.config
+D:\TUGAS TIAP MODUL\TUGAS UAS\obj\Debug\TUGAS UAS.exe
+D:\TUGAS TIAP MODUL\TUGAS UAS\obj\Debug\TUGAS UAS.xml
+D:\TUGAS TIAP MODUL\TUGAS UAS\obj\Debug\TUGAS UAS.pdb
+D:\TUGAS TIAP MODUL\TUGAS UAS\bin\Debug\DB Zery 1.accdb
+D:\TUGAS TIAP MODUL\TUGAS UAS\bin\Debug\TUGAS UAS.exe
+D:\TUGAS TIAP MODUL\TUGAS UAS\bin\Debug\TUGAS UAS.pdb
+D:\TUGAS TIAP MODUL\TUGAS UAS\bin\Debug\TUGAS UAS.xml
+D:\TUGAS TIAP MODUL\TUGAS UAS\obj\Debug\TUGAS_UAS.Form1.resources
+D:\TUGAS TIAP MODUL\TUGAS UAS\obj\Debug\TUGAS_UAS.Form2.resources
+D:\TUGAS TIAP MODUL\TUGAS UAS\obj\Debug\TUGAS_UAS.Form3.resources
+D:\TUGAS TIAP MODUL\TUGAS UAS\obj\Debug\TUGAS_UAS.Form4.resources
+D:\TUGAS TIAP MODUL\TUGAS UAS\obj\Debug\TUGAS_UAS.Form5.resources
+D:\TUGAS TIAP MODUL\TUGAS UAS\obj\Debug\TUGAS_UAS.Resources.resources
+D:\TUGAS TIAP MODUL\TUGAS UAS\obj\Debug\TUGAS UAS.vbproj.GenerateResource.Cache
+D:\TUGAS UAS\bin\Debug\TUGAS UAS.exe.config
+D:\TUGAS UAS\obj\Debug\TUGAS UAS.exe
+D:\TUGAS UAS\obj\Debug\TUGAS UAS.xml
+D:\TUGAS UAS\obj\Debug\TUGAS UAS.pdb
+D:\TUGAS UAS\bin\Debug\DB Zery 1.accdb
+D:\TUGAS UAS\bin\Debug\TUGAS UAS.exe
+D:\TUGAS UAS\bin\Debug\TUGAS UAS.pdb
+D:\TUGAS UAS\bin\Debug\TUGAS UAS.xml
+D:\TUGAS UAS\obj\Debug\TUGAS_UAS.Form1.resources
+D:\TUGAS UAS\obj\Debug\TUGAS_UAS.Form2.resources
+D:\TUGAS UAS\obj\Debug\TUGAS_UAS.Form3.resources
+D:\TUGAS UAS\obj\Debug\TUGAS_UAS.Form4.resources
+D:\TUGAS UAS\obj\Debug\TUGAS_UAS.Form5.resources
+D:\TUGAS UAS\obj\Debug\TUGAS_UAS.Resources.resources
+D:\TUGAS UAS\obj\Debug\TUGAS UAS.vbproj.GenerateResource.Cache
